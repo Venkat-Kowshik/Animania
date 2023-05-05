@@ -10,6 +10,7 @@ So we aimed to provide a decentralized version of this daily life fun and challe
 We will provide users to upload their Charecter card using "IPFS" in dapp
 
 So, enable trustworthy transactions and agreements to be made between dispersed, anonymous participants without the need for a centralised authority, a legal system, or an external enforcement mechanism. The key advantages of using are:
+
 •Speed, efficiency and accuracy
 •Trust and transparency
 •Security
